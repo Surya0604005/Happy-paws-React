@@ -1,8 +1,32 @@
-# React + Vite
+# 🐾 Happy Paws
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **pet care website** built with **React.js** and **Vite**. This project focuses on creating a clean, user-friendly interface with a seamless shopping experience across desktop and mobile devices.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Responsive Design
+* Hero Image Slider
+* Product Listing
+* Wishlist
+* Shopping Cart
+* Glassmorphism UI
+* Mobile-Friendly Layout
+
+## 🛠️ Tech Stack
+
+* React.js
+* Vite
+* JavaScript (ES6)
+* HTML5
+* CSS3
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/surya0604005/happy-paws.git
+cd happy-paws
+npm install
+npm run dev
+```
+
+
