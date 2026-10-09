@@ -24,7 +24,7 @@ function Hero() {
       </div>
 
       <div className="hero-image">
-        <img src="src=" src="/assets/hero.png" alt="Pet Hero" />
+        <img src="/assets/hero.png" alt="Pet Hero" />
       </div>
     </section>
   );
